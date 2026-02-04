@@ -25,7 +25,7 @@ Backend development, REST APIs, databases and business logic are my core strengt
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://t.me/ahmadov_dev" target="_blank">
+  <a href="https://t.me/the_codeholic" target="_blank">
     <img src="https://brandlogos.net/wp-content/uploads/2021/11/telegram-logo.png" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/bekmurod-ahmadov-368892263/" target="_blank">
