@@ -83,13 +83,17 @@ Backend development, REST APIs, databases and business logic are my core strengt
 
 ### 📌 Key Skills
 
-- REST API development
-- Yii2 (ActiveRecord, RBAC, Behaviors, Queue)
-- PostgreSQL optimization & indexing
-- AJAX / jQuery integrations
-- Authentication & Authorization
-- Clean Code & Refactoring
-- Git workflow (feature / fix / release)
+- Backend system design & scalable architecture
+- RESTful API design, versioning & documentation (OpenAPI)
+- Business logic implementation & domain modeling
+- Database design, query optimization & indexing
+- Authentication, authorization & role-based access control (RBAC)
+- Performance optimization & bottleneck analysis
+- Asynchronous processing, queues & background jobs
+- Integration with third-party services & APIs
+- Clean Code principles, refactoring & code review
+- Error handling, logging & monitoring
+- Git-based workflows & collaborative development
 
 ---
 
