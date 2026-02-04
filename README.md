@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Akhmadov Bekmurod</h1>
 <h3 align="center">I'm PHP-Backend developer!</h3>
 
-- 🔭 I’m currently working on [Digit agro](https://digitagro.uz/)
+- 🔭 I’m currently working on [Digit Agro](https://digitagro.uz/)
 
 - 💬 Ask me about **PHP,Yii1,Yii2,PostgreSql,MySql,Git,HTML,CSS,JavaScript,jQuery**
   
