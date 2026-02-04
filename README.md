@@ -41,15 +41,41 @@ Backend development, REST APIs, databases and business logic are my core strengt
 ### 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png" width="40"/>
-  <img src="https://www.yiiframework.com/image/logo.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40"/>
-  <img src="https://www.svgrepo.com/show/473731/mysql.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+
+  <!-- Backend -->
+  <img src="https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png" width="40" title="PHP"/>
+  <img src="https://www.yiiframework.com/image/logo.svg" width="40" title="Yii2"/>
+  <img src="https://laravel.com/img/logomark.min.svg" width="40" title="Laravel (basic)"/>
+
+  <!-- Databases -->
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" title="PostgreSQL"/>
+  <img src="https://www.svgrepo.com/show/473731/mysql.svg" width="40" title="MySQL"/>
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" title="Redis"/>
+  
+  <!-- DevOps / Server -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" title="Nginx"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" title="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" title="Linux"/>
+  
+  <!-- API / Integration -->
+  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40" title="Postman"/>
+  <img src="https://www.vectorlogo.zone/logos/swagger/swagger-icon.svg" width="40" title="Swagger / OpenAPI"/>
+  <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" width="40" title="gRPC"/>
+  
+  <!-- Messaging / Queue -->
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" title="Kafka"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" title="RabbitMQ"/>
+
+  <!-- Version Control -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" title="GitHub"/>
+
+  <!-- Front (minimal) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" title="jQuery"/>
+
 </p>
+
 
 ---
 
