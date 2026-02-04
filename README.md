@@ -58,9 +58,11 @@ Backend development, REST APIs, databases and business logic are my core strengt
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" title="Linux"/>
   
   <!-- API / Integration -->
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40" title="Postman"/>
-  <img src="https://www.vectorlogo.zone/logos/swagger/swagger-icon.svg" width="40" title="Swagger / OpenAPI"/>
-  <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" width="40" title="gRPC"/>
+  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" title="Postman"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="40" title="Swagger / OpenAPI"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" width="40" title="OpenAPI"/>
+
   
   <!-- Messaging / Queue -->
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" title="Kafka"/>
