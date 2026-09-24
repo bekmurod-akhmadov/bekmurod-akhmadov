@@ -52,7 +52,7 @@ My core stack is **PHP, Yii2, PostgreSQL, and MySQL**. I work on **AgroTech** an
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Yii2](https://img.shields.io/badge/Yii2-0073BB?style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel%20%-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 <br/><br/>
 
