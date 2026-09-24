@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:155E75,100:22D3EE&height=210&section=header&text=Bekmurod%20Akhmadov&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=PHP%20%2F%20Yii2%20Backend%20Developer&descSize=20&descAlignY=59" width="100%" alt="Bekmurod Akhmadov — PHP / Yii2 Backend Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:155E75,100:22D3EE&height=210&section=header&text=Bekmurod%20Akhmadov&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=PHP%20%2F%20Yii2%20Backend%20Developer&descSize=20&descAlignY=59" width="100%" alt="Bekmurod Akhmadov — Senior PHP Backend Developer" />
 
 Turning business requirements into reliable backend systems.
 
